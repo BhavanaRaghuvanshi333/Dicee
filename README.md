@@ -1,7 +1,7 @@
-Dicee :- A Simple Game Built by Using HTML5 and CSS3 and JS.
+Dicee :- A Simple Game Built by Using HTML5,CSS3 and JavaScriptES6.
 
-OverView :- there are two Dices in the game Dice1 and Dice2 onclick of a refresh button they will roll and 
-the Dice which gets higher number will Win and if both of them gets same number then match will be draw :)
+OverView :- There are two Dices in the game Dice1 belongs to player1 and Dice2 belongs to player2 onclick of a refresh button they will roll and 
+the Player who's Dice gets higher number will Win and if both of them gets the same number then match will be draw :)
 
 Demo :- 
 
